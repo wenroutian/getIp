@@ -1,0 +1,14 @@
+{
+    "name": "samxiao/get-ip",
+    "description": "get client ip",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "samxiao",
+            "email": "490429806@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
